@@ -53,7 +53,9 @@ async function fetchData() {
 fetchData();
 ```
 
-## Parámetros Comunes del Método `fetch` en JavaScript
+
+
+# Parámetros Comunes del Método `fetch` en JavaScript
 
 El método `fetch` en JavaScript acepta varios parámetros que permiten personalizar y configurar las solicitudes de manera específica. A continuación, se mencionan los parámetros más comunes:
 
